@@ -1,1 +1,21 @@
-/* your code */
+table , th , td, tr {
+	border:1px solid black;
+}
+table{
+	border-collapse:collapse
+}
+.thead ,.td2{
+	margin:100px;
+	padding:20px;
+}
+table{
+	border-radius:10%
+}
+.row1{
+	color:white;
+	background-color:rgb(33,90,142);
+}
+.r2{
+	color:black;
+	background-color:rgb(221,221,221)
+}
